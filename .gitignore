@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Variables
+*.tfvars
+*.auto.tfvars
+
+# AWS credentials
+.aws/
+
+# OS
+.DS_Store
