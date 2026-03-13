@@ -4,8 +4,7 @@ variable "instance_type"{
 	default = "t3.micro"
 }
 
-variable "disable_public"{
-	description = "disable public ip"
+variable "associate_public_ip"{
 	type = bool
-	default = false
+	default = true
 }
