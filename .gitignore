@@ -4,9 +4,6 @@
 *.tfstate.*
 crash.log
 
-# Variables
-*.tfvars
-*.auto.tfvars
 
 # AWS credentials
 .aws/
