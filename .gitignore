@@ -4,6 +4,7 @@
 *.tfstate.*
 crash.log
 
+provider.tf 
 
 # AWS credentials
 .aws/
