@@ -9,6 +9,7 @@ variable "env"{
 	type = map(string)
 	default = {
 		project = "demo-project",
-		environment = "demo"
+		Name = "demo"
+		environment = "demoo"
 	}
 }
